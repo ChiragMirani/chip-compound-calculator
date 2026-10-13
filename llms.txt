@@ -1,0 +1,8 @@
+# Chip Compound Interest
+
+An offline iOS and iPadOS compound interest calculator by Chirag Mirani. Includes growth charts, independent contribution and compounding frequencies, plan comparisons, contribution/time/return goal solvers, inflation-adjusted balances, PDF reports and CSV exports. Educational hypothetical calculations; no trading, financial accounts or investment advice. Paid once; no ads or subscriptions.
+
+- [Home](https://chiragmirani.github.io/chip-compound-calculator/)
+- [Support](https://chiragmirani.github.io/chip-compound-calculator/support.html)
+- [Privacy](https://chiragmirani.github.io/chip-compound-calculator/privacy.html)
+- [App Store](https://apps.apple.com/app/id6822411872)
