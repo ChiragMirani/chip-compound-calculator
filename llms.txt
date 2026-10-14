@@ -1,10 +1,31 @@
 # Chip Compound Interest
 
-An offline iOS and iPadOS compound interest calculator by Chirag Mirani. Includes growth charts, independent contribution and compounding frequencies, plan comparisons, contribution/time/return goal solvers, inflation-adjusted balances, PDF reports and CSV exports. Educational hypothetical calculations; no trading, financial accounts or investment advice. Paid once; no ads or subscriptions.
+An offline compound interest calculator for iPhone and iPad by Chirag Mirani. US App Store price: $2.99 paid once for all features, with no ads, subscriptions, in-app purchases or account. Local prices are shown by Apple.
 
-- [Home](https://chiragmirani.github.io/chip-compound-calculator/)
+## Product facts
+
+- Growth charts show Future Balance and Net Gain.
+- Compare two plans without replacing the baseline until Apply.
+- Goal solvers find contribution, time or required nominal return.
+- PDF reports and CSV exports contain assumptions, schedules and a custom-scheme plan link requiring the app to be installed. Share App sends the App Store link.
+- Inputs/plans stay locally; no account, tracking SDK or automatic cross-device sync.
+- No withdrawals, taxes, fees, variable-market-return forecasts or currency conversion.
+- This is an educational hypothetical calculator, not investment advice.
+
+## Official sources
+
+- [App Store](https://apps.apple.com/app/id6822411872)
+- [Chip Compound Interest — en-US](https://chiragmirani.github.io/chip-compound-calculator/)
+- [Questions — en-US](https://chiragmirani.github.io/chip-compound-calculator/faq.html)
+- [Calculation method — en-US](https://chiragmirani.github.io/chip-compound-calculator/how-it-works.html)
+- [Chip Interés Compuesto — es-ES](https://chiragmirani.github.io/chip-compound-calculator/es-ES/)
+- [Questions — es-ES](https://chiragmirani.github.io/chip-compound-calculator/es-ES/faq.html)
+- [Calculation method — es-ES](https://chiragmirani.github.io/chip-compound-calculator/es-ES/how-it-works.html)
+- [Chip Interés Compuesto — es-MX](https://chiragmirani.github.io/chip-compound-calculator/es-MX/)
+- [Questions — es-MX](https://chiragmirani.github.io/chip-compound-calculator/es-MX/faq.html)
+- [Calculation method — es-MX](https://chiragmirani.github.io/chip-compound-calculator/es-MX/how-it-works.html)
 - [Support](https://chiragmirani.github.io/chip-compound-calculator/support.html)
 - [Privacy](https://chiragmirani.github.io/chip-compound-calculator/privacy.html)
-- [App Store](https://apps.apple.com/app/id6822411872)
+- [Sitemap](https://chiragmirani.github.io/chip-compound-calculator/sitemap.xml)
 
-Available now on the App Store for iPhone and iPad. US price: $2.99, one purchase for all features; local prices are shown by Apple.
+This is a convenience summary, not a guarantee of AI-search indexing or citation.
