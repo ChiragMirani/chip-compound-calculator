@@ -6,3 +6,5 @@ An offline iOS and iPadOS compound interest calculator by Chirag Mirani. Include
 - [Support](https://chiragmirani.github.io/chip-compound-calculator/support.html)
 - [Privacy](https://chiragmirani.github.io/chip-compound-calculator/privacy.html)
 - [App Store](https://apps.apple.com/app/id6822411872)
+
+Available now on the App Store for iPhone and iPad. US price: $2.99, one purchase for all features; local prices are shown by Apple.
