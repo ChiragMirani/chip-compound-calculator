@@ -1,4 +1,6 @@
-# Chip Compound Interest — iPhone & iPad
+# Compound Interest Calculators — iPhone & iPad
+
+App Store name: **Compound Interest Calculators** (subtitle: Chip: Savings Plans & Goals). Renamed on Sunday, October 18, 2026 from Chip Compound Interest.
 
 **See how regular savings could grow. Compare two plans. Work backward from a goal.**
 
