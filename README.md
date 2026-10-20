@@ -6,7 +6,7 @@ App Store name: **Compound Interest Calculators** (subtitle: Chip: Savings Plans
 
 [Download on the App Store](https://apps.apple.com/app/id6822411872) · [Official website](https://chiragmirani.github.io/chip-compound-calculator/)
 
-US price: **$2.99 once for all features**. Apple shows local prices. No ads, subscriptions, in-app purchases or account.
+**Free to download.** Optional one-time Full Calculator purchase: US $2.99 (comparisons, goals, saved plans, PDF and CSV reports). No ads, subscriptions or account.
 
 - Clear growth charts with Future Balance and Net Gain.
 - Side-by-side plan comparisons with an intact baseline.

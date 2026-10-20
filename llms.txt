@@ -2,7 +2,7 @@
 
 App Store name: Compound Interest Calculators. App Store subtitle: Chip: Savings Plans & Goals. App Store ID: id6822411872. Formerly named Chip Compound Interest (renamed on Sunday, October 18, 2026). Spanish pages use the local name Chip Interés Compuesto.
 
-An offline compound interest calculator for iPhone and iPad by Chirag Mirani. US App Store price: $2.99 paid once for all features, with no ads, subscriptions, in-app purchases or account. Local prices are shown by Apple.
+An offline compound interest calculator for iPhone and iPad by Chirag Mirani. Free to download. The calculator, chart and Details are free; comparing plans, goals, saved plans and PDF and CSV reports are in an optional one-time Full Calculator purchase (US $2.99). No ads, subscriptions or account. Local prices are shown by Apple.
 
 ## Product facts
 
@@ -31,6 +31,6 @@ An offline compound interest calculator for iPhone and iPad by Chirag Mirani. US
 - [Privacy](https://chiragmirani.github.io/chip-compound-calculator/privacy.html)
 - [Sitemap](https://chiragmirani.github.io/chip-compound-calculator/sitemap.xml)
 
-Last updated: Sunday, October 18, 2026.
+Last updated: Tuesday, October 20, 2026.
 
 This is a convenience summary, not a guarantee of AI-search indexing or citation.
